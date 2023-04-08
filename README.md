@@ -4,8 +4,10 @@
 
 ## Como executar:
 
-    Basicamente, basta executar o SA_knapsack.py, que irá executar o algoritmo com os parâmetros pré-definidos no código. <br />
-    Caso queira executar com outros parâmetros, basta executar o arquivo SA_knapsack.py com os parâmetros desejados, mudando nas variáveis: values, weights, capacity. <br />
+    Basicamente, basta executar o SA_knapsack.py, que irá executar o algoritmo com os parâmetros pré-definidos no código.
+
+
+    Caso queira executar com outros parâmetros, basta executar o arquivo SA_knapsack.py com os parâmetros desejados, mudando nas variáveis: values, weights, capacity.
 
 ## Alunos:
 
