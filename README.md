@@ -2,7 +2,7 @@
 
 ## Descrição: Implementação do algoritmo do Problema da Mochila baseado no Simulated Annealing
 
-O trabalho a seguir tem como intuito utilizar o algoritmo de otimização "Simulated Annealing", que é um algoritmo inspirado no cprocesso de aquecimento e resfriamento de um material.
+O trabalho a seguir tem como intuito utilizar o algoritmo de otimização "Simulated Annealing", que é um algoritmo inspirado no processo de aquecimento e resfriamento de um material.
 
 Ele é baseado em um processo físico chamado de "recozimento simulado".
 
